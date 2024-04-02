@@ -5,7 +5,9 @@
 ### Member 3 - 0801IT211008 - ADITYA JAITKAR
 
 ## Technologies:
-###### MERN Stack
+###### MERN Stack Project 
 - Frontend : React
 - Backend : Node js
 - IDE: VS code
+
+## SGSITS Collage
